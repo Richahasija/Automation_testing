@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<ul
+  className="error-messages"
+>
+  <li>
+    0
+     
+    errror
+  </li>
+</ul>
+`;
